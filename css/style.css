@@ -7,27 +7,26 @@
 
 }
 
-.button {
-  /* height: 30px;
-  /* width: 100px; */
-  /* display: flex; */
+button {
+  height: 30px;
+  width: 100px;
+  display: inline-block;
+  margin-left: 10px;
 }
 
 .button1 {
   background-color: rgb(0, 255, 255);
-  margin-left: 10px;
   border-radius: 10%;
 }
 
 .button2 {
   background-color: rgb(0, 255, 255);
-  margin-left: 10px;
   border-radius: 10%;
-}
+  width: 150px;
+  }
 
 .button3 {
   background-color: rgb(0, 255, 255);
-  margin-left: 10px;
   border-radius: 10%;
 }
 
